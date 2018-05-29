@@ -1,0 +1,26 @@
+{
+  "name": "@jessemcbrennan/bubblesort-npm",
+  "version": "1.0.0",
+  "description": "Lorem ipsum",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JesseMcBrennan/bubblesort-npme.git"
+  },
+  "author": "Jesse McFadden",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JesseMcBrennan/bubblesort-npme/issues"
+  },
+  "homepage": "https://github.com/JesseMcBrennan/bubblesort-npme#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
